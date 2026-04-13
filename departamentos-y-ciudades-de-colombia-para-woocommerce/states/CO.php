@@ -3,7 +3,7 @@
  * Colombia states
  *
  * @author   Saul Morales Pacheco <moralespachecopablo@gmail.com>
- * @version  2.0.20
+ * @version  2.0.23
  * @license https://www.gnu.org/licenses/gpl-3.0.html GNU Public License
  */
 

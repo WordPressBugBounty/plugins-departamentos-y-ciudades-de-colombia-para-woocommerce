@@ -4,8 +4,8 @@ Donate link: https://saulmoralespa.com/donation
 Tags: Colombia, departamentos, ciudades,woocommerce departamentos de Colombia, woocommerce ciudades de Colombia
 Requires PHP: 8.0
 Requires at least: 6.0
-Tested up to: 6.7.2
-Stable tag: 2.0.22
+Tested up to: 6.9
+Stable tag: 2.0.23
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -82,54 +82,56 @@ Only major cities of each department.
 6. Reflection shipping rule by city
 
 == Changelog ==
-= 2.0.0 =
-* Added Bogotá D.C as state and localities
-= 2.0.1 =
-* Updated readme version wordpresss
-= 2.0.2 =
-* Deleted Bogotá D.C of states
-= 2.0.3 =
-* Updated Woocommerce compatible version
-= 2.0.4 =
-* Added compatibility for multisites
-= 2.0.5 =
-* Updated readme version wordpresss
-= 2.0.6 =
-* Updated readme version wordpresss and cities
-= 2.0.7 =
-* Updated container in place-select.js
-= 2.0.8 =
-* * Updated container in place-select.js
-= 2.0.9 =
-* Updated compatibility with MultiVendorX
-= 2.0.10 =
+= 2.0.23 =
+* Added dismissible admin notice for services promotion
+= 2.0.22 =
+* Fixed undefined variable in states-places.php
+= 2.0.21 =
 * Updated wp compatible version
-= 2.0.11 =
-* Updated wp compatible version
-= 2.0.12 =
-* Fixed function is_plugin_active
-= 2.0.13 =
-* Fixed function is_plugin_active
-= 2.0.14 =
-* Refactor load places and states
-= 2.0.15 =
-* Added filter filters_by_cities_shipping_method_params_rate
-* Updated compatibility for Woocommerce HPOS
-= 2.0.16 =
-*  Added city Los santos of Santander
-= 2.0.17 =
-*  Added city Betulia of Santander
-= 2.0.18 =
-* Updated compatibility with FunnelKit Checkout
+= 2.0.20 =
+* Fixed load cities in my account
 = 2.0.19 =
 * Fixed load states
 * Fixed load selectWoo, used strategy defer
-= 2.0.20 =
-* Fixed load cities in my account
-= 2.0.21 =
+= 2.0.18 =
+* Updated compatibility with FunnelKit Checkout
+= 2.0.17 =
+* Added city Betulia of Santander
+= 2.0.16 =
+* Added city Los santos of Santander
+= 2.0.15 =
+* Added filter filters_by_cities_shipping_method_params_rate
+* Updated compatibility for Woocommerce HPOS
+= 2.0.14 =
+* Refactor load places and states
+= 2.0.13 =
+* Fixed function is_plugin_active
+= 2.0.12 =
+* Fixed function is_plugin_active
+= 2.0.11 =
 * Updated wp compatible version
-= 2.0.22 =
-* Fixed undefined variable in states-places.php
+= 2.0.10 =
+* Updated wp compatible version
+= 2.0.9 =
+* Updated compatibility with MultiVendorX
+= 2.0.8 =
+* Updated container in place-select.js
+= 2.0.7 =
+* Updated container in place-select.js
+= 2.0.6 =
+* Updated readme version wordpresss and cities
+= 2.0.5 =
+* Updated readme version wordpresss
+= 2.0.4 =
+* Added compatibility for multisites
+= 2.0.3 =
+* Updated Woocommerce compatible version
+= 2.0.2 =
+* Deleted Bogotá D.C of states
+= 2.0.1 =
+* Updated readme version wordpresss
+= 2.0.0 =
+* Added Bogotá D.C as state and localities
 
 == Additional Info ==
 **Contribute** [repository on github](https://github.com/saulmoralespa/departamentos-y-ciudades-de-colombia-para-woocommerce)

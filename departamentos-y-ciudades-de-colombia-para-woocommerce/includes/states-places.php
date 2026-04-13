@@ -3,7 +3,7 @@
 class WC_States_Places_Colombia
 {
 
-    const VERSION = '2.0.20';
+    const VERSION = '2.0.23';
     const CODE_COUNTRY = 'CO';
     private static $places;
 
